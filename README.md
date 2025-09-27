@@ -12,12 +12,12 @@ Mini jeu Snake en Python avec Pygame pour montrer mes compétences en logique et
 ## Installation
 
 1. Cloner le dépôt :
-git clone https://github.com/ton-github/snake-game.git
+git clone https://github.com/shiro76/snake_game.git
 
 2. Créer et activer une venv :
 python -m venv venv
-source venv/bin/activate # Mac/Linux
-venv\Scripts\activate # Windows
+- source venv/bin/activate # Mac/Linux
+- venv\Scripts\activate # Windows
 
 3. Installer Pygame :
 pip install -r requirements.txt
